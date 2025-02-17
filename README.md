@@ -106,9 +106,8 @@ A robust user authentication system built with Laravel, featuring registration, 
 
 ```
 ├── app
-│   └── Http
-│       └── Controllers
-│           └── AuthController.php
+│   └── Http / Controllers
+│         └── AuthController.php
 ├── config
 ├── database
 │   └── migrations
