@@ -38,7 +38,7 @@ A robust user authentication system built with Laravel, featuring registration, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/fassi842002/user-auth-sys.git
    cd your-repo-name
    ```
 
