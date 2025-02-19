@@ -53,7 +53,7 @@ class AuthController extends Controller
     public function logout(Request $request)
     {
         auth()->logout();
-        return redirect()->route("register");
+        return redirect()->route("login");
     }
 
     // Show login form with logged-in user check
